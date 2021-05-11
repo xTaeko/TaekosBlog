@@ -1,4 +1,4 @@
-baseURL = "https://taeko.cf"
+baseURL = "https://taeko.dev"
 languageCode = "en-us"
 title = "Taeko's Blog!"
 theme = "hugo-casper3-master"
