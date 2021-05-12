@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![Chibi-Me](/Vanessa_chibi.jpg "Chibi-Me")
+
 Hey, I'm Taeko and I'm 24 years old. After I first started playing games, I always imagined how it all works together, how fascinating it would be to be part of all this. 
 So, I started with Computer Sciences and... Let's say Computer Sciences and I have a complicated relationship.
  
