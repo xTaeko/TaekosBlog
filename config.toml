@@ -1,8 +1,8 @@
 baseURL = "https://taeko.dev"
 languageCode = "en-us"
 title = "Taeko's Blog!"
-theme = "hugo-casper3-master"
-copyright = "Copyright © 2020"
+theme = "hugo-theme-hello-friend-ng-master"
+
 [menu]
 	[[menu.main]]
 		identifier = "home"
@@ -14,8 +14,24 @@ copyright = "Copyright © 2020"
 		name = "Posts"
 		url = "/post/"
 		weight = 20
-    	[[menu.main]]
+    [[menu.main]]
 		identifier = "about"
 		name = "About"
 		url = "/about/"
 		weight = 30
+
+
+[params]
+
+	homeSubtitle = "Unity Tutorials"
+
+	[params.logo]
+		logoText	= "$ cd ~taeko/"
+		logoHomeLink = "/"
+
+	[[params.social]]
+		name = "email"
+		url = "mailto:x@taeko.dev"
+
+
+	
