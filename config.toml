@@ -23,7 +23,7 @@ theme = "hugo-theme-hello-friend-ng-master"
 
 [params]
 
-	homeSubtitle = "Unity Tutorials"
+	homeSubtitle = "Unity Tutorials and more"
 
 	[params.logo]
 		logoText	= "$ cd ~taeko/"
@@ -32,6 +32,10 @@ theme = "hugo-theme-hello-friend-ng-master"
 	[[params.social]]
 		name = "email"
 		url = "mailto:x@taeko.dev"
+
+	[[params.social]]
+		name = "twitter"
+		url = "https://twitter.com/DevTaeko"
 
 
 	
