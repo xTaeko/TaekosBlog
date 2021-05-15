@@ -23,6 +23,9 @@ theme = "hugo-theme-hello-friend-ng-master"
 
 [params]
 
+	customCSS = ["/overrides.css"]
+	customJS  = []
+
 	homeSubtitle = "Unity Tutorials and more"
 
 	[params.logo]
