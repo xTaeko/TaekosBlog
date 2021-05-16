@@ -1,6 +1,6 @@
 ---
 title: "Unity Shortcuts"
-date: 2021-05-12T17:54:08+01:00
+date: 2021-05-16T19:30:08+01:00
 draft: false
 slug: "unity_shortcuts"
 categories: ["Unity", "Tutorial"]
