@@ -42,7 +42,7 @@ theme = "hugo-theme-hello-friend-ng-master"
 
 	[[params.social]]
 		name = "twitter"
-		url = "https://twitter.com/DevTaeko"
+		url = "https://twitter.com/TaekoDev"
 
 	
 
