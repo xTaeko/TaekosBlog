@@ -37,7 +37,7 @@ The Shortcuts are as followed:
 | Scale Tool    | R             |    
 | Rect Tool     | T             |     
 | Combined Tool | Y             |
-| | |
+
 
 \
 The trick is, that the order of the keys are the same as displayed at the top of your unity editor. 
@@ -51,9 +51,8 @@ Two additional shortcuts worth to know are for toggle the values next to the too
 | ----                  | ----          | 
 | Toggle Pivot/Center   |  Z            | 
 | Toggle Global/Local   |  X            |
-| | |
 
-
+\
 Again QWERTZ-Keyboard kinda messed with Unitys intention to have it between each other, but you 
 
 
@@ -97,16 +96,17 @@ As you may already noticed by holding the `Right Mouse Button` you can look arou
 
 Here is a list of the important keys you can use while holding `Right Mouse Button` down to navigate. The action will be executed as long as you hold the keys down. 
 
-| Key   | Action            |   
-| ----   | ----               |
-| W     | forward           |
-| A     | left              |
-| S     | backwards         |
-| D     | right             |
-| Q     | down              |
-| E     | up                |
-| SHIFT | move faster       |
+| Action        | Shortcut-Key  |
+| ----          | ----          | 
+| forward       | W             |
+| left          | A             |
+| backwards     | S             |
+| right         | D             |
+| down          | Q             |
+| up            | E             |
+| move faster   | SHIFT         |
 
+\
 Here is a small example how it looks like:
 
 {{< image src="./Flythrough_mode.gif" alt="Example for the scene navigation" position="center" style="width: 500px;">}}
