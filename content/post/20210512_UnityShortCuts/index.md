@@ -127,8 +127,8 @@ Overview about the scene view navigation: \
 https://docs.unity3d.com/2017.4/Documentation/Manual/SceneViewNavigation.html
 
 I currently use Unity versions:
-- Unity 2019.4.17f1
-- Unity 2020.2.1f1
+* Unity 2019.4.17f1
+* Unity 2020.2.1f1
 
 In case of questions or feedback, feel free to contact me. All links can be found at the front page.
 
