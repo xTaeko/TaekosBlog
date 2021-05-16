@@ -5,11 +5,11 @@ draft: false
 slug: "unity_shortcuts"
 ---
 
-We all know these people, they sit in front of a computer and it seems like they just use some kind of darf magic. New windows open, tools changes within seconds, they search for things without even touching the mouse. And after a blink they changed so much and you have no idea what happend. 
+We all know these people, they sit in front of a computer and it seems like they just use some kind of dark magic. New windows open, tools change within seconds, they search for things without even touching the mouse. And after a blink they changed so much and you have no idea what happend. 
 
 This magic is called the usage of shortcuts. And like everything in the IT in general, you first need to know they exists and after that it's easy to use them or search for them in case you forgot it. 
 
-Unity have a lot of useful shortcuts and today I want to show you some of them. I discovered recently, a lot of people don't know a lot of "common" shortcuts, so this post will cover these too. 
+Unity has a lot of useful shortcuts and today I want to show you some of them. I discovered recently that a lot of people don't know a lot of "common" shortcuts, so this post will cover these too. 
 
 At the end I hope you can practice the magic of shortcuts yourself. Before getting started... Almost every shortcut I tell you about are also written down in Unity itself and you can edit them if you want to have it different. 
 Just go to `Edit -> Shortcuts...` in your Unity Window. But now, lets get started!
@@ -47,11 +47,11 @@ If you are using a QWERTZ-Keyboard, you may notice that your combined tool is no
 Two additional shortcuts worth to know are for toggle the values next to the tools. To look at the center of an object or its pivot (especially useful when editing a UI) and toggle between global and local transform of an object. 
 
 | Tool                  | Shortcut-Key  | 
-| ---                   |     ---       |
+| ---                   | ---           |
 | Toggle Pivot/Center   |  Z            | 
 | Toggle Global/Local   |  X            |
 
-\
+
 Again QWERTZ-Keyboard kinda messed with Unitys intention to have it between each other, but you 
 
 
