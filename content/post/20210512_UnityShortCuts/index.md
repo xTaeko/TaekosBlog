@@ -47,7 +47,7 @@ If you are using a QWERTZ-Keyboard, you may notice that your combined tool is no
 Two additional shortcuts worth to know are for toggle the values next to the tools. To look at the center of an object or its pivot (especially useful when editing a UI) and toggle between global and local transform of an object. 
 
 | Tool                  | Shortcut-Key  | 
-| ---                   | ---           |
+| ----                   | ----           |
 | Toggle Pivot/Center   |  Z            | 
 | Toggle Global/Local   |  X            |
 
@@ -96,7 +96,7 @@ As you may already noticed by holding the `Right Mouse Button` you can look arou
 Here is a list of the important keys you can use while holding `Right Mouse Button` down to navigate. The action will be executed as long as you hold the keys down. 
 
 | Key   | Action            |   
-| ---   | ---               |
+| ----   | ----               |
 | W     | forward           |
 | A     | left              |
 | S     | backwards         |
