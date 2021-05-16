@@ -29,7 +29,15 @@ In this case you can switch between these tools. With each of them you can manip
 These tools have a really easy shortcut. You just need to remember one key and then you can find out any tool. Great right? 
 The Shortcuts are as followed:
 
-
+| Tool          | Shortcut-Key  |
+| ----          | ----          | 
+| Hand Tool     | Q             |
+| Move Tool     | W             |
+| Rotate Tool   | E             |
+| Scale Tool    | R             |    
+| Rect Tool     | T             |     
+| Combined Tool | Y             |
+| | |
 
 \
 The trick is, that the order of the keys are the same as displayed at the top of your unity editor. 
@@ -39,10 +47,11 @@ If you are using a QWERTZ-Keyboard, you may notice that your combined tool is no
 
 Two additional shortcuts worth to know are for toggle the values next to the tools. To look at the center of an object or its pivot (especially useful when editing a UI) and toggle between global and local transform of an object. 
 
-| Tool                  | Shortcut-Key  | 
-| ----                  | ----          |
+| Tool                  | Shortcut-Key  |
+| ----                  | ----          | 
 | Toggle Pivot/Center   |  Z            | 
 | Toggle Global/Local   |  X            |
+| | |
 
 
 Again QWERTZ-Keyboard kinda messed with Unitys intention to have it between each other, but you 
