@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Taeko's Blog!"
 theme = "hugo-theme-hello-friend-ng-master"
 
+
 [menu]
 	[[menu.main]]
 		identifier = "home"
@@ -23,6 +24,7 @@ theme = "hugo-theme-hello-friend-ng-master"
 
 [params]
 
+	enableThemeToggle = true
 	homeSubtitle = "Unity Tutorials and more"
 
 	[params.logo]
@@ -37,5 +39,5 @@ theme = "hugo-theme-hello-friend-ng-master"
 		name = "twitter"
 		url = "https://twitter.com/DevTaeko"
 
-
 	
+
