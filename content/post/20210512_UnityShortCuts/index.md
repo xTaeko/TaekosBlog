@@ -57,7 +57,14 @@ Again QWERTZ-Keyboard kinda messed with Unitys intention to have it between each
 
 ## Expanding/collapse GameObjects
 
-While working on a project it will get a lot bigger every commit you make. As well as the depth of some GameObjects increase during the development. It can be really annoying to collapse and expand everything every time. So I will show you some tricks to save some time while doing so. 
+While working on a project it will get a lot bigger every commit you make. As well as the depth of some GameObjects increase during the development. It can be really annoying to collapse and expand everything every time. So I will show you some tricks to save some time while doing so.
+
+The first shortcut is maybe the most useful and the most recent one I know. A friend told be about it while we always use it without intention which got really annoying. 
+
+When you want to collapse or expand ALL objects in your scene or in a specific GameObject you can hold `ALT` while opening/closing it. It kinda tell all children to do the same action as the parent. To indicate it for you, the hand symbol in the tool selection will change to an eye instead of a hand. I will show you a quick example (at the right button are the keys I pressed at this time).
+
+{{< image src="./Collapse_Expand.gif" alt="Example Collapse and Expand while holding ALT Key" position="center" style="width: 500px;">}}
+
 
 
 
@@ -75,25 +82,52 @@ Unity has something called "Snapping". Just to know that snapping exists helped 
 
 The first kind of snapping is the Face-Snapping. By holding `CTRL + SHIFT` the center of your tool kinda looks different (as seen in the gif below). When you move your object near a surface now, the object will stick to it. And that what we want most of the time, to just have our objects on the ground, right?
 
-{{< image src="./FaceSnappingSmaller.gif" alt="Example for Face Snapping" position="center">}}
+{{< image src="./FaceSnapping.gif" alt="Example for Face Snapping" position="center" style="width: 500px;">}}
 
 The second thing is Vertex-Snapping. While holding `V` the center of your tool change again, to let you know you are snapping now. Furthermore you not selecting the center of the object anymore. While hovering over the object, the tool you choose stick to the nearest corner of the object. If your move your object like that, you can fit the selected vertex to a vertex of another object. 
 
-{{< image src="./VertexSnappingSmaller.gif" alt="Example for Vertex Snapping" position="center">}}
+{{< image src="./VertexSnapping.gif" alt="Example for Vertex Snapping" position="center" style="width: 500px;">}}
 
-I hope these tips helps you when starting with Unity or even tell you some tricks if you already work with it. 
+## Flying Scene Camera
 
-Good luck with your coding!
+We all know the pain, we want to go near an object, because we want to see something. But using the mouse weel just don't work as we want. Either we are too far away or we look through the object. But of course Unity has a solution for it, you just need to know it exists!
+As you may already noticed by holding the `Right Mouse Button` you can look around at you viewpoint. And for those with good eyes also notice the small icon beside the eye icon on your mouse. It indicates that you can use `WASD` to navigate through your scene smoothly. 
+
+Here is a list of the important keys you can use while holding `Right Mouse Button` down to navigate. The action will be executed as long as you hold the keys down. 
+
+| Key   | Action            |   
+| ---   | ---               |
+| W     | forward           |
+| A     | left              |
+| S     | backwards         |
+| D     | right             |
+| Q     | down              |
+| E     | up                |
+| SHIFT | move faster       |
+
+Here is a small example how it looks like:
+
+{{< image src="./Flythrough_mode.gif" alt="Example for the scene navigation" position="center" style="width: 500px;">}}
+
+I must admit, it may take some time to get used to it. But even if you do not need it right now, it is good to know it exists and you can google how it works. Or come back to this post. 
+
+Hopefully these tips helps you when starting with Unity or even tell you some tricks if you already work with it. There are much more shortcuts, if you like them, just look them up in the documentation. These are just the ones I didn't know a long time and would be happy to have known before. Because we all know, we don't read the full documentation, we just read the parts we are searching for. 
+
+And now good luck with your coding!
 
 ---
 ---
 ## Additional Information
 Overview about all Unity Shortcuts: \
-https://docs.unity3d.com/2017.3/Documentation/Manual/UnityHotkeys.html
+https://docs.unity3d.com/2017.4/Documentation/Manual/UnityHotkeys.html
 
-I currently use Unity version:
--  Unity 2019.4.1.17f1
+Overview about the scene view navigation: \
+https://docs.unity3d.com/2017.4/Documentation/Manual/SceneViewNavigation.html
 
-In case of questions or feedback, feel free to contact me on twitter.
+I currently use Unity versions:
+- Unity 2019.4.17f1
+- Unity 2020.2.1f1
+
+In case of questions or feedback, feel free to contact me. All links can be found at the front page.
 
 ##### **Written 16.05.2021**
