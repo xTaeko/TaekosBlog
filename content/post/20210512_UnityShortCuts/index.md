@@ -3,6 +3,8 @@ title: "Unity Shortcuts"
 date: 2021-05-12T17:54:08+01:00
 draft: false
 slug: "unity_shortcuts"
+categories: ["Unity", "Tutorial"]
+
 ---
 
 We all know these people, they sit in front of a computer and it seems like they just use some kind of dark magic. New windows open, tools change within seconds, they search for things without even touching the mouse. And after a blink they changed so much and you have no idea what happend. 
