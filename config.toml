@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Taeko's Blog!"
 theme = "hugo-theme-hello-friend-ng-master"
 
+[permalinks]
+  posts = "/posts/:title/"
+
+[author]
+	name = "Taeko"
 
 [menu]
 	[[menu.main]]
