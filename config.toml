@@ -1,6 +1,6 @@
 baseURL = "https://taeko.dev"
 languageCode = "en-us"
-title = "Taeko's Blog!"
+title = "Taeko's Tech Blog!"
 theme = "hugo-theme-hello-friend-ng-master"
 
 [permalinks]
@@ -30,7 +30,7 @@ theme = "hugo-theme-hello-friend-ng-master"
 [params]
 
 	enableThemeToggle = true
-	homeSubtitle = "Unity Tutorials and more"
+	homeSubtitle = "Unity Tutorials and more!"
 
 	[params.logo]
 		logoText	= "$ cd ~taeko/"
