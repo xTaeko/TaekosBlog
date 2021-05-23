@@ -1,6 +1,7 @@
 ---
 title: "Unity Shortcuts"
 date: 2021-05-16T19:30:08+01:00
+description: "In this post you can learn the dark magic of shortcuts in Unity. To work faster and feel more experienced in the things you do."
 draft: false
 slug: "unity_shortcuts"
 categories: ["Unity", "Tutorial"]
